@@ -1,0 +1,16 @@
+{
+  "productos": [
+    {
+      "name": "resczcx",
+      "price": 34.3,
+      "units": 4,
+      "id": 1
+    },
+    {
+      "name": "hopañ",
+      "price": 34.3,
+      "units": 4,
+      "id": 2
+    }
+  ]
+}
